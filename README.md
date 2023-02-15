@@ -1,2 +1,2 @@
-# projetointegradorproz
-Meu projeto de site um blog de esportes
+# Meu Projeto Integrador um blog de esportes.
+REDONDO ESPORTES
