@@ -1,2 +1,1 @@
-# Meu Projeto Integrador um blog de esportes.
-REDONDO ESPORTES
+# Portal-Tech-Turma4-Grupo2
