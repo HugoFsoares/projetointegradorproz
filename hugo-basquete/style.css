@@ -109,7 +109,7 @@
 @media (max-width: 840px){
   .noticias {
     display: grid;
-  }
+  }}
 .noticias img {
   width: 400px;
   height: 250px;
