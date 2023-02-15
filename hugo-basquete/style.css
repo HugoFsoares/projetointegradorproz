@@ -106,6 +106,10 @@
   border-bottom: 1px solid var(--verdeclaro);
 }
 
+@media (max-width: 840px){
+  .noticias {
+    display: grid;
+  }
 .noticias img {
   width: 400px;
   height: 250px;
